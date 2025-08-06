@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **nandhinirajasekaran-se/nandhinirajasekaran-se** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 # Hi there 👋 I'm Nandhini
@@ -20,4 +20,4 @@
 
 ## 📫 Connect with me
 [LinkedIn](https://www.linkedin.com/in/nandhini-rajasekaran-39286078) • [Email](mailto:mail2nandinirajasekar@gmail.com)
--->
+
