@@ -1,8 +1,3 @@
-## Hi there 👋
-
-
-**nandhinirajasekaran-se/nandhinirajasekaran-se** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # Hi there 👋 I'm Nandhini
 
 🎓 Master's student in System Design Engineering @ University of Waterloo  
