@@ -1,4 +1,5 @@
-# Hi There 👋 This is Nandhini Rajasekaran
+# Hi There 👋 
+This is Nandhini Rajasekaran
 
 🎓 Master's student in System Design Engineering @ University of Waterloo  
 💼 Ex-JPMorgan, Ex-Bank of America | Java Full-Stack Developer  
